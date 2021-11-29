@@ -1,0 +1,4 @@
+com\eduardodev\APISignIn\model\User.class
+com\eduardodev\APISignIn\repository\UserRepository.class
+com\eduardodev\APISignIn\ApiSignInApplication.class
+com\eduardodev\APISignIn\Controller\SignInController.class
